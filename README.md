@@ -19,28 +19,28 @@ There are 1 model:
 
 #### Routes
 
-1. ### http://localhost:3000/todos : home route
+1.  http://localhost:3000/todos : home route
 
-2. ## Route: ('/') -
+2.  Route: ('/') -
 
-# get all todos
+ get all todos
 
 - Request : get(/)
 
-# addTodo - add a new todo
+ addTodo - add a new todo
 
 - Request : post(/) - create a new todo
 
-3. ## Route: ('/:id') -
+3.  Route: ('/:id') -
 
-# getTodoById - get a todo by id
+ getTodoById - get a todo by id
 
 - Request : get(/63a249d43246cd4eb4a02c81) - get todo by its id
 
-# updateTodoById - update a todo by id
+ updateTodoById - update a todo by id
 
 - Request : patch(/63a249d43246cd4eb4a02c81) - Update Todo Details by its id
 
-# deleteTodoById - delete a todo by id
+ deleteTodoById - delete a todo by id
 
 - Request : delete(/63a249d43246cd4eb4a02c81) - delete Todo by its id
