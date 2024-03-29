@@ -1,4 +1,6 @@
-#### Todo_App - Using Node.js and Typescript
+### Todo_API - Using Node.js and Typescript - Task Management API
+
+- The Todo API is a back-end application developed using TypeScript, Node.js, and Express.js, designed for efficient task management. This API allows users to interact with a list of tasks by viewing existing tasks, adding new tasks, and removing tasks from the list. Developed with TypeScript, the application ensures type safety and provides a robust foundation for building scalable and maintainable task management systems.
 
 #### Installation
 
